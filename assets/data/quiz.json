@@ -1,0 +1,499 @@
+{
+  "data" : [
+     {
+      "questionnaire" : 1,
+      "number" : 0,
+      "question" : "<p><span style=\"font-size: 14px;\"><em><strong>Yo&lsquo;riqnoma:</strong></em></span><span style=\"font-size: 12px;\"> Ushbu so&lsquo;rovnomada Siz quyidagi savolga javob berishingiz kerak: &laquo;Qaysi qadriyatlar hayotimning tub asosiy tamoyillari sifatida men uchun muhim bo&lsquo;ladi, va qaysi qadriyatlar men uchun unchalik muhim emas?&raquo; Keyingi sahifalarda turli madaniyatlardan olingan qadriyatlar ro&lsquo;yxati keltirilgan. Qavslar ichida har bir qadriyatning izohi berilgan.Sizning vazifangiz - har bir qadriyatning hayotingizdagi tub asosiy tamoyil sifatida, uning ahamiyatini baholash. &ndash;1 dan 7 gacha bo&lsquo;lgan baholash shkalasidan foydalaning. Qadriyatning qiymati qancha ko&lsquo;p bo&lsquo;lsa (-1, 0, 1, 2, 3, 4, 5, 6, 7), bu qadriyat Siz uchun hayotingizda tub asosiy tamoyil sifatida shunchalik muhim bo&lsquo;ladi. Bunda, quyidagi belgilash qiymatlariga asoslanib ishlashingiz kerak:&laquo;&ndash;1&raquo; belgisi sizning ichki tamoyillaringizga zid bo&lsquo;lgan qadriyatlarni tavsiflaydi, &laquo;0&raquo; belgisi bu qadriyat umuman ahamiyatga ega emasligini, hayotingizda tub asosiy tamoyil emasligini bildiradi, &laquo;3&raquo; belgisi bu qadriyatning muhimligini bildiradi, &laquo;6&raquo; belgisi bu qadriyat juda muhimligini bildiradi, &laquo;7&raquo; belgisi esa eng katta ahamiyatga ega bo&lsquo;lgan qadriyatlarni tavsiflaydi, odatda bunday qadriyatlar ikkitadan ko&lsquo;p bo&lsquo;lmasligi kerak.</span></p>"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 1,
+      "question" : "TENGLIK (hamma uchun teng imkoniyatlar borligi)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 2,
+      "question" : "IChKI GARMONIYA VA UYG‘UNLIK (kishi o‘z-o‘zi bilan tinch-totuv bo‘lishi)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 3,
+      "question" : "IJTIMOIY KUChLILIGI (boshqalarni boshqara olish, ustun bo‘lish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 4,
+      "question" : "LAZZAT OLISh (o‘z istaklarini qondirish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 5,
+      "question" : "ERKINLIK (fikrlash va harakat erkinlig"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 6,
+      "question" : "RUHIY HAYOT (moddiy narsalarga emas, balki ma'naviy narsalarga e'tibor berish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 7,
+      "question" : "BOShQALARGA TEGIShLILIK, BIRDAMLIK TUYG‘USI (yolg‘iz emasligimni his qilish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 8,
+      "question" : "IJTIMOIY TARTIBLILIK (jamiyatdagi barqarorlik)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 9,
+      "question" : "HAYOTNING TAASSUROTLARGA TO‘LA BO‘LIShI (yangiliklarga intilish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 10,
+      "question" : "HAYOTNING MA'NOSI (hayotdagi maqsadlar)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 11,
+      "question" : "ODOBLILIK (xushmuomalalik, odob-axloq)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 12,
+      "question" : "BOYLIK (moddiy mulklar, pul)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 13,
+      "question" : "MILLIY XAVFSIZLIK (o‘z vatanini dushmanlardan himoya qilish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 14,
+      "question" : "O‘Z-O‘ZINI HURMAT QILISh (o‘z qadr-qimmatiga ishonch)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 15,
+      "question" : "BOShQALARNING FIKRINI XURMAT QILING (boshqalarning manfaatlarini inobatga olish, fikrlarning qarama-qarshiligiga yo‘l qo‘ymaslik)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 16,
+      "question" : "IJODIYLIK (betakrorlik, boy tasavvur va xayolot)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 17,
+      "question" : "BUTUN DUNYODAGI TINChLIK (urushlar va mojarolardan ozod bo‘lish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 18,
+      "question" : "AN'ANALARNI HURMAT QILISh (tan olingan an'analarni, urf-odatlarni saqlab qolish)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 19,
+      "question" : "YETUK SEVGI (chuqur hissiy va ma'naviy yaqinlik)"
+    },
+     {
+      "questionnaire" : 1,
+      "number" : 20,
+      "question" : "O‘Z-O‘ZINI INTIZOMDA SAQLASh (o‘zini tutish va o‘zining cheklash, nafsga qarshi kurasha olish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 21,
+      "question" : "YOLG‘IZ BO‘LISh HUQUQI (shaxsiy yashash maydoni bo‘lishi huquqi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 22,
+      "question" : "OILANING XAVFSIZLIGI (yaqinlaringiz uchun xavfsizlik)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 23,
+      "question" : "JAMIYATDA TAN OLINISh (boshqalarning havas qilishi va ma'qullashi, hurmat qilishi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 24,
+      "question" : "TABIAT BILAN BIRLIK (tabiat bilan birlasha olish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 25,
+      "question" : "HAYOTNI O‘ZGARTIRISh (hayotning qiyinchiliklarga, yangilik va o‘zgarishlarga to‘la bo‘lishi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 26,
+      "question" : "DONOLIK (butun olamni yetuk darajada anglash)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 27,
+      "question" : "OBRO‘ (hokimlik, rahbar bo‘lish yoki buyruq berish huquqi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 28,
+      "question" : "HAQIQIY DO‘STLIK (yaqin do‘stlar borligi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 29,
+      "question" : "GO‘ZALLIK OLAMI (tabiat va san'at go‘zalligi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 30,
+      "question" : "IJTIMOIY ADOLAT (adolatsizlikni tuzatish, zaiflarga g‘amxo‘rlik qilish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 31,
+      "question" : "MUSTAQIL (o‘ziga ishonadigan, o‘zini-o‘zi ta’minlovchi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 32,
+      "question" : "CHEKLASH (his-tuyg'ular va harakatlarda haddan tashqari holatlardan qochish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 33,
+      "question" : "SODIQLIK(do'stlarga, guruhga sodiq)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 34,
+      "question" : "MAQSADLILIK (mehnatsevar, ilhomlangan)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 35,
+      "question" : "BOSHQA FIKRLARGA OCHIQLIK(turli g‘oya va e’tiqodlarga tolerantlik) "
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 36,
+      "question" : "KAMTARLIK (oddiy, e'tiborni jalb qilmoqchi emas)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 37,
+      "question" : "JASURLIK (sarguzashtli, tavakkalchi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 38,
+      "question" : "ATROF-MUHITNI MUHOFAZA QILISH (tabiatni asrash)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 39,
+      "question" : "TA’SIRCHAN (odamlar va hodisalarga ta'sir qilish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 40,
+      "question" : "OTA-ONA VA YOSHI KATTALARGA HURMAT (hurmat ko'rsatish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 41,
+      "question" : "O'Z MAQSADLARINI TANLASH (o'z niyatlarini tanlash)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 42,
+      "question" : "SOG'LOM (jismoniy yoki ruhiy kasal bo'lmagan)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 43,
+      "question" : "QODIRLIK (vakolatli, samarali harakat qila oladigan)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 44,
+      "question" : "HAYOTNI QABUL QILISh (hayot sharoitlariga bo'ysunish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 45,
+      "question" : "VIJDONLILIK (ochiq, samimiy)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 46,
+      "question" : "O`Z IMIDJNI SAQLASH (“yuzingizni” himoya qilish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 47,
+      "question" : "IJROCHI (itoatkor, qoidalarga bo'ysunuvchi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 48,
+      "question" : "AQLLILIK (mantiqiy, fikrlash)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 49,
+      "question" : "FOYDALI BO`LISHLIK (boshqalar manfaati uchun ishlash)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 50,
+      "question" : "HAYOTDAN ZAVQLANISH (ovqatlanish,bayramlar, o'yin-kulgi va h.k.)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 51,
+      "question" : "TAQVODOR (diniy e'tiqod va e'tiqodga ega)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 52,
+      "question" : "MAS'UL (ishonchli, ishonchli)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 53,
+      "question" : "QIZIQUVCHAN (hamma narsaga qiziquvchi)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 54,
+      "question" : "KECHIRISHGA MOYILLIK (boshqani kechirishga intilish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 55,
+      "question" : "MUVAFFAQIYAT (maqsadga erishish)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 56,
+      "question" : "TOZAKOR (pokiza,tartibli)"
+    },
+    {
+      "questionnaire" : 1,
+      "number" : 57,
+      "question" : "O`ZINI O`ZI YOQTIRUVCHI (rohat beradigan narsani qilish)"
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 0,
+      "question" : "<p><strong><em><span style=\"font-size: 14px;\">Yo`riqnoma</span></em></strong><span style=\"font-size: 14px;\">:&nbsp;</span><span style=\"font-size: 12px;\">Sizga insonning fe&apos;l-atvori, uning atrofidagi odamlar bilan bo&apos;lgan munosabatlariga oid hukmlar taqdim etiladi. Har bir hukmni diqqat bilan o&apos;qing va u sizning o&apos;zingiz haqidagi fikringizga mos keladimi-yo&apos;qligini baholang. Javoblar varaqasida o&apos;zingiz haqidagi fikringizga mos keladigan ta&apos;riflar raqamlariga qarshi &quot;+&quot; belgisini va o&apos;zingiz haqidagi fikringizga mos kelmaydigan bayonotlar soniga qarshi &quot;-&quot; belgisini qo&apos;ying. . Samimiy bo&apos;lishga harakat qiling. To&apos;liq ishonchingiz komil bo&apos;lmasa, &quot;+&quot; belgisini qo&apos;ymang.</span></p>\n<p><br></p>"
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 1,
+      "question" : "U uchun nimadir o‘ylab topish va ijodkor bo‘lish muhim. U ishlarni o'ziga xos tarzda, o'ziga xos tarzda qilishni yaxshi ko'radi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 2,
+      "question" : "U uchun boy bo'lishi muhim. U ko'p pul va yaxshi narsalarga ega bo'lishni xohlaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 3,
+      "question" : "U dunyodagi har bir insonga teng munosabatda bo'lish muhim deb hisoblaydi. Uning fikricha, hayotda hamma teng imkoniyatlarga ega bo'lishi kerak."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 4,
+      "question" : "U uchun o'z qobiliyatlarini ko'rsatish juda muhimdir. U odamlarning qilgan ishlariga qoyil qolishlarini xohlaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 5,
+      "question" : "U uchun xavfsiz muhitda yashash muhim. U o'z xavfsizligiga tahdid soladigan har qanday narsadan qochadi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 6,
+      "question" : "U hayotda ko'p turli narsalarni qilish muhim deb hisoblaydi. U doimo yangilikka intiladi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 7,
+      "question" : "U odamlar nima buyursa, shuni qilishi kerak, deb hisoblaydi. Uning fikricha, odamlar har doim qoidalarga rioya qilishlari kerak, hatto hech kim qaramasa ham."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 8,
+      "question" : "U uchun o'zidan farq qiladigan odamlarning fikrlarini tinglash muhimdir. Ular bilan rozi bo'lmasa ham, ularni tushunishni xohlaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 9,
+      "question" : "U bor narsadan ko'proq narsani so'ramaslik muhim deb hisoblaydi. Uning fikricha, odamlar o'zlarida mavjud bo'lgan narsalar bilan qanoatlanishlari kerak."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 10,
+      "question" : "U doimo zavqlanish uchun sabab izlaydi. Unga zavq keltiradigan narsani qilish muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 11,
+      "question" : "U nima qilishni o'zi hal qilishi muhim. U o'z faoliyatini rejalashtirish va tanlashda erkin bo'lishni yaxshi ko'radi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 12,
+      "question" : "Boshqalarga yordam berish uning uchun juda muhim. U ularning farovonligi haqida g'amxo'rlik qilishni xohlaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 13,
+      "question" : "U uchun hayotda muvaffaqiyatga erishish juda muhim. U boshqalarni hayratda qoldirishni yaxshi ko'radi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 14,
+      "question" : "O'z mamlakatining xavfsizligi uning uchun juda muhim. Uning fikricha, davlat o‘zini tashqi va ichki tahdidlardan himoya qilishga tayyor bo‘lishi kerak."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 15,
+      "question" : "U tavakkal qilishni yaxshi ko'radi. U doimo sarguzashtlarni qidiradi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 16,
+      "question" : "U uchun doimo o'zini to'g'ri tutish muhim. U odamlar noto'g'ri deb hisoblaydigan narsalarni qilishdan qochishni xohlaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 17,
+      "question" : "U uchun mas'ul bo'lish va boshqalarga nima qilish kerakligini aytish muhimdir. U odamlarning aytganini qilishlarini xohlaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 18,
+      "question" : "Uning do'stlariga sodiq bo'lishi muhim. U o'zini yaqinlariga bag'ishlashni xohlaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 19,
+      "question" : "Inson tabiatga g'amxo'rlik qilishi kerak, deb chin dildan ishonadi. Atrof-muhitga g'amxo'rlik qilish uning uchun muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 20,
+      "question" : "Dindor bo‘lish u uchun muhim. U o'zining diniy e'tiqodlariga amal qilish uchun juda ko'p harakat qiladi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 21,
+      "question" : "U uchun narsalarning tartibli va toza bo'lishi muhim. U haqiqatan ham tartibsizlikni yoqtirmaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 22,
+      "question" : "U ko'p narsaga qiziqish muhim deb hisoblaydi. U qiziquvchan bo'lishni va turli narsalarni tushunishga harakat qilishni yaxshi ko'radi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 23,
+      "question" : "U yer yuzidagi barcha xalqlar totuvlikda yashashi kerak, deb hisoblaydi. Uning uchun yer yuzidagi barcha guruhlar o'rtasida tinchlikni ta'minlash muhim ahamiyatga ega."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 24,
+      "question" : "U shuhratparast bo'lishni muhim deb hisoblaydi. U qanchalik qobiliyatli ekanligini ko'rsatmoqchi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 25,
+      "question" : "U o'rnatilgan an'analarga muvofiq harakat qilishni eng yaxshi deb hisoblaydi. U o'rgangan urf-odatlarga rioya qilish uchun muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 26,
+      "question" : "U uchun hayotdan zavq olish muhim. U o'zini \"erkalashni\" yaxshi ko'radi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 27,
+      "question" : "U uchun boshqa odamlarning ehtiyojlariga sezgir bo'lishi muhimdir. U o'zi bilganlarni qo'llab-quvvatlashga harakat qiladi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 28,
+      "question" : "U har doim ota-onasiga va kattalarga hurmat ko'rsatishi kerak deb hisoblaydi. Uning uchun itoatkor bo'lish muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 29,
+      "question" : "U hammaga, hatto o'zi tanimaydigan odamlarga ham adolatli munosabatda bo'lishini xohlaydi. Uning uchun zaiflarni himoya qilish muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 30,
+      "question" : "U kutilmagan hodisalarni yaxshi ko'radi. Uning uchun hayoti yorqin taassurotlarga to'la bo'lishi muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 31,
+      "question" : "U kasal bo'lmaslik uchun juda ko'p harakat qiladi. Uning uchun sog'lom bo'lish juda muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 32,
+      "question" : "Hayotda oldinga siljish uning uchun muhim. U hamma narsani boshqalarga qaraganda yaxshiroq qilishga intiladi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 33,
+      "question" : "Uning uchun uni xafa qilgan odamlarni kechirishi muhim. Ularning yaxshi tomonlarini ko‘rishga, kin saqlamaslikka harakat qiladi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 34,
+      "question" : "U uchun mustaqil bo'lish muhim. U o'ziga ishonishni yaxshi ko'radi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 35,
+      "question" : "Barqaror hukumatga ega bo'lish uning uchun muhim. U jamoat tartibini saqlashdan xavotirda."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 36,
+      "question" : "Boshqa odamlarga doimo xushmuomala bo'lish uning uchun juda muhimdir. U hech qachon boshqalarni bezovta qilmaslikka harakat qilmaydi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 37,
+      "question" : "U haqiqatan ham hayotdan zavq olishni xohlaydi. U uchun yaxshi vaqt o'tkazish juda muhimdir."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 38,
+      "question" : "U uchun kamtar bo'lishi muhim. U o'ziga e'tiborni jalb qilmaslikka harakat qiladi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 39,
+      "question" : "U har doim qaror qabul qiladigan odam bo'lishni xohlaydi. U rahbar bo'lishni yaxshi ko'radi."
+    },
+    {
+      "questionnaire" : 2,
+      "number" : 40,
+      "question" : "U uchun tabiatga moslashish, uning bir qismi bo'lish muhimdir. Uning fikricha, odamlar tabiatni o'zgartirmasligi kerak."
+    }
+  ]
+}

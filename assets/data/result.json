@@ -1,0 +1,74 @@
+{
+  "data" : [
+    {
+      "id" : 1,
+      "name" : "Konformlik - boshqalarning fikriga moslashish (Conformity)",
+      "description" : "Ushbu turdagi qadriyatning belgilab beruvchi motivasion maqsadi - boshqalarga zarar yetkazishi mumkin bo‘lgan yoki jamiyat kutgan jihatlarga mos kelmaydigan harakatlarni, moyilliklarni va harakatlar impul'slarini cheklash va bartaraf etish. \nBu qadriyat – salbiy ijtimoiy oqibatlarga olib keladigan moyilliklarni cheklash talabining hosilasidir (itoatkorlik, o‘zini tuta bilish va intizom, xushmuomalalik va odob, ota-onalarni va kattalarni hurmat qilish).",
+      "questionnaire1" : [11,20,40,47],
+      "questionnaire2" : [7, 16, 28, 36]
+    },
+    {
+      "id" : 2,
+      "name" : "An'analar, odatlar (Tradition)",
+      "description" : "Barcha guruhlar o‘ziga xos ramzlarini va marosimlarini ishlab chiqadilar, ular asosan guruhning tajribasi bilan belgilab beriladi, hamda an'analar va urf-odatlar shaklida mustahkamlanadi. An'anaviy xatti-harakatlar va o‘zini tutish usullari guruh birdamligining ramzi, umumiy qadriyatlarning ifodasi va yashab qolishning kafolatiga aylanadi. An'analar ko‘pincha diniy marosimlar, e'tiqod va xulq-atvor me'yorlari ko‘rinishiga ega bo‘ladi. Uning motivasion maqsadi - madaniyatda mavjud bo‘lgan urf-odatlar va g‘oyalarni hurmat qilish, qabul qilish va ularga rioya qilish (an'analar va urf-odatlarni hurmat qilish, mo‘min-qobillik, taqvodorlik, o‘z nasibasiga qanoat qilish, me'yorida yashashga intilish).",
+      "questionnaire1" : [18,32,36,44,51],
+      "questionnaire2" : [9, 20, 25, 38]
+    },
+    {
+      "id" : 3,
+      "name" : "Mehribonlik  (Benevolence)",
+      "description" : "Bu universallikka nisbatan torroq belgilab berilgan «jamiyatga bog‘liq» qadriyat turidir. Bunda boshqalarga xayrixohlik kundalik yaqin aloqada bo‘ladigan kishilarning farovonligiga qaratilgan bo‘ladi. Ushbu qadriyat turi ijobiy o‘zaro munosabat ehtiyojidan, guruhga qo‘shilish ehtiyojidan va guruhning ezguligini ta'minlash ehtiyojidan kelib chiqqan hosila deb hisoblanadi. Ushbu qadriyat turining motivasion maqsadi - shaxs tez-tez shaxsiy aloqada bo‘ladigan odamlarning farovonligini saqlab qolish (foydali bo‘lish, sadoqat, ko‘ngil yaqinligi va kechirish, halollik, mas'uliyat, do‘stlik, yetuk muhabbat).",
+      "questionnaire1" : [33,45,49,52,54],
+      "questionnaire2" : [12, 18,27,33]
+    },
+    {
+      "id" : 4,
+      "name" : "Universallik (Universalism)",
+      "description" : "Ushbu turdagi qadriyatning motivasion maqsadi – boshqalarni tushunish, murosalilik, barcha odamlarning va tabiatning ezguligi uchun faoliyat ko‘rsatib, ularni himoya qilishdir. Universallik qadriyatining motivasion maqsadlari, odamlar o‘zining muhitidan tashqaridagilar bilan muloqot qilganda, yoki boshlang‘ich guruhini kengaytirganda oshkoraligi sezilib qoladigan guruhlarning va shaxslarning hayotiy ehtiyojlaridan kelib chiqishi mumkin.",
+      "questionnaire1" : [1,17,24,26,29,30,35,38],
+      "questionnaire2" : [3, 8, 19, 23, 29, 40]
+    },
+    {
+      "id" : 5,
+      "name" : "Mustaqillik, mustaqil fikrlash (Self-Direction)",
+      "description" : "Ushbu turdagi qadriyatlarning belgilab beruvchi maqsadi fikrlashda va xatti-harakatlarini o‘zi tanlashda mustaqillik, ijodkorlik, tadqiqot faoliyatidan iborat. Mustaqillik - organizmning nazorat qilishga va boshqarishga bo‘lgan ehtiyojidan, shuningdek, avtonomlik va mustaqillikning o‘zaro bog‘liq talablaridan kelib chiquvchi hosiladir.",
+      "questionnaire1" : [5, 16,31,41,53],
+      "questionnaire2" : [1, 11,22,34]
+    },
+    {
+      "id" : 6,
+      "name" : "Rag‘batlanish (Stimulation)",
+      "description" : "Bu qadriyat inson faolligining optimal darajasini saqlab qolish uchun xilma-xil va chuqur kechinmalarga va tajribaga bo‘lgan ehtiyojidan kelib chiqadi. Ijtimoiy tajriba bilan belgilab berilgan biologik asoslangan rag‘batlantirish bo‘lgan ehtiyojning biologik asoslangan o‘zgarishlari ushbu qiymatning ahamiyatidagi individual farqlarga olib kelishi mumkin. Ushbu turdagi qadriyatning motivasion maqsadi yangilik, chuqur tajriba olish hisoblanadi.",
+      "questionnaire1" : [9, 25, 37],
+      "questionnaire2" : [6, 15, 30]
+    },
+    {
+      "id" : 7,
+      "name" : "Gedonizm, lazzat olishga intilish (Hedonism)",
+      "description" : "Sh. Shvarsning nazariyasida ushbu turdagi motivasion maqsad lazzatlanish yoki shahvoniy lazzatlanish (lazzatlanish, hayotdan lazzat olish) deb ta'riflanadi.",
+      "questionnaire1" : [4, 50, 57],
+      "questionnaire2" : [10, 26, 37]
+    },
+    {
+      "id" : 8,
+      "name" : "Yutuqlar (Achievement)",
+      "description" : "Ushbu turdagi qadriyatlarning belgilab beruvchi maqsadi - ijtimoiy standartlarga muvofiq holda o‘z qobiliyatini, imkoniyatlarini namoyish etish orqali shaxsiy muvaffaqiyatga erishish.\n\n(Bu qadriyatning mazmunini tashkil etuvchi) ustuvor madaniy standartlar sharoitida ijtimoiy imkoniyatlarini namoyish etish insonning jamiyat tomonidan ma'qullashga olib keladi.",
+      "questionnaire1" : [34, 39, 43, 55],
+      "questionnaire2" : [4, 13, 24, 32]
+    },
+    {
+      "id" : 9,
+      "name" : "Kuch, hokimlik, obro‘ (Power)",
+      "description" : "Ijtimoiy institutlarning faoliyati kishilarning turli maqomlarini farqlashning ma'lum darajasi bo‘lishini talab qiladi, va turli madaniyatlardagi shaxslararo munosabatlarning aksariyat qismida hukmronlik / bo‘ysunish ko‘rsatkichlarining ma'lum birikmasi bo‘lishi aniqlangan. Ushbu turdagi qadriyatlarning asosiy maqsadi – ma'lum ijtimoiy mavqeiga yoki obro‘ga erishish, odamlarga va mulk-vosita, imkoniyatlarga hokimlik qilish, yoki ulardan ustun bo‘lish (obro‘, hokimlik, boylik, ijtimoiy qodirlik, jamoatchilikda o‘z obro‘sini saqlab qolish, jamiyat tomonidan e'tirof etilishi). Hokimlik va Yutuqlar qadriyatlari (quyida qarang) ijtimoiy hurmat qilishga diqqatni qaratadi, ammo Yutuqlar qadriyatlari (masalan, muvaffaqiyatli, shuhratparast) muayyan o‘zaro munosabatlarda muvaffaqiyatning faol namoyish etilishini ta'kidlaydi, Hokimlik (hokimiyat, boylik) qadriyatlari esa barcha uchun umumiy ijtimoiy tizimda ustun mavqega erishishni yoki uni saqlab qolishni ko‘rsatadi.",
+      "questionnaire1" : [3, 12, 27, 46],
+      "questionnaire2" : [2, 17, 39]
+    },
+    {
+      "id" : 10,
+      "name" : "Xavfsizlik (Security)",
+      "description" : "Ushbu turdagi qadriyatning motivasion maqsadi – xavfsizlik, uyg‘unlik, hamda jamiyat, o‘zaro munosabatlarning, shaxsning barqarorligi bo‘lib, bazaviy individual va guruhli talablarning hosilasi hisoblanadi. Sh. Shvars ikkita alohida - individual va guruhli daraja emas, balki Xavfsizlik qadriyatlarining bitta umumiy turi mavjud, deb taxmin qiladi, chunki jamoaviy turiga kiruvchi qadriyatlar ko‘proq shaxs uchun xavfsizlikni ta'minlash maqsadini ifodalaydi (ijtimoiy tartib, oila xavfsizligi, milliy xavfsizlik, o‘zaro yaxshi munosabat, o‘zaro yordam, poklik, jamoaga tegishliligini his qilish, sog‘liq).",
+      "questionnaire1" : [8, 13, 15,22,56],
+      "questionnaire2" : [5, 14,21,31,35]
+    }
+  ]
+}

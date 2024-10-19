@@ -1,0 +1,29 @@
+{
+  "data" : [
+    {
+      "id" : 1,
+      "type" : -2,
+      "answer" : "Umumano'xshash emas"
+    },
+    {
+      "id" : 2,
+      "type" : -1,
+      "answer" : "O'xshash emas"
+    },
+    {
+      "id" : 3,
+      "type" : 1,
+      "answer" : "Bir oz o`xshash"
+    },
+    {
+      "id" : 4,
+      "type" : 2,
+      "answer" : "O`xshash"
+    },
+    {
+      "id" : 5,
+      "type" : 3,
+      "answer" : "Juda o`xshash"
+    }
+  ]
+}
